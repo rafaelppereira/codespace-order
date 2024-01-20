@@ -1,0 +1,26 @@
+{
+  "order": [
+    {
+      "client_info": {
+        "name": "Rafael Pereira",
+        "email": "rafaelsantospereira03@gmail.com",
+        "phone": "5548996948270",
+        "address": {
+          "street": "Alcibíades Vidal de Souza",
+          "number": "290",
+          "district": "Serraria",
+          "city": "São José",
+          "state": "SC"
+        }
+      },
+      "order_info": {
+        "size": "Gigante",
+        "flavor": "Calabresa",
+        "edge": "Sem borda"
+      },
+      "status": "Preparando",
+      "order_name": "Pedido #0001",
+      "id": "b07a17aeb9bc400ab9866fc4c2216c3b"
+    }
+  ]
+}
